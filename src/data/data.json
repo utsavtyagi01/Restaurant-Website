@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Bruschetta",
+        "price": "8.00",
+        "image": "bruschetta.jpg"
+    },
+    {
+        "title": "Stuffed Mushrooms",
+        "price": "10.00",
+        "image": "stuffed_mushrooms.jpg"
+    },
+    {
+        "title": "Garlic Shrimp",
+        "price": "12.00",
+        "image": "garlic_shrimp.jpg"
+    },
+    {
+        "title": "Grilled Salmon",
+        "price": "22.00",
+        "image": "grilled_salmon.jpg"
+    },
+    {
+        "title": "Vegetarian Pasta",
+        "price": "18.00",
+        "image": "vegetarian_pasta.jpg"
+    },
+    {
+        "title": "Cheesecake",
+        "price": "7.00",
+        "image": "cheesecake.jpg"
+    },
+    {
+        "title": "Chocolate Lava Cake",
+        "price": "9.00",
+        "image": "chocolate_lava_cake.jpg"
+    }
+]
