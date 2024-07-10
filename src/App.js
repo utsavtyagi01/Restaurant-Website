@@ -1,6 +1,6 @@
 import React from 'react'
 import Home from './Components/Home';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
@@ -12,7 +12,7 @@ import Navbar from './Components/Navbar';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />} />
@@ -23,7 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
