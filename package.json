@@ -2,7 +2,11 @@
   "name": "savorhaven",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://utsavtyagi01.github.io/React-Savor-Haven/",
+=======
+  "homepage": "https://utsavtyagi01.github.io/Restaurant-Website",
+>>>>>>> origin/main
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
